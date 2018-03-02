@@ -1,0 +1,58 @@
+body {
+	background-color: #C6E2FF;
+	font-family: arial, helvetica, sans-serif;
+	margin-left: 0px;
+	padding: 0px;
+	margin: auto;
+	padding: 10px 20px;
+}
+
+a {
+	text-decoration: none;
+	color: #9dce2c;
+}
+
+input.binstrutor {
+	color: white;
+	font-weight: bold;
+	background-color: #33cc33;
+}
+
+input.bhome {
+	color: white;
+	font-weight: bold;
+	background-color: #33cc33;
+}
+
+h1 {
+	font-size: 20px;
+	font-weight: bold;
+	color: #00008B;
+	text-decoration: none;
+}
+
+p, ul, ol {
+	color: #00008B;
+	font-size: 12px;
+	width: 290px;
+	text-align: justify;
+}
+
+th {
+	color: #006400;
+	font-size: 12px;
+}
+
+ul {
+	list-style-type: square;
+}
+
+table {
+	width: 50%;
+	border: 2px #104E8B solid;
+	font-size: 12px;
+}
+
+td {
+	background: #F0FFFF;
+}
